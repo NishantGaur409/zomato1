@@ -47,11 +47,6 @@ function App() {
         >Primary</button>
 
       
-        <button
-          type="button"
-          className="btn btn-primary"
-          onClick={clearEverything}
-        >clear</button>
       </div>
      
       <header className="App-header">
